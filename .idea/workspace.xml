@@ -15,6 +15,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "OtosakaYuu203"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/fnaskjfnjk2/H20Strore.git",
+    "accountId": "59785705-4ed5-4078-89cd-1160ea7b825f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -27,10 +39,10 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "hoangdung",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/otosa/Documents/GitHub/DATN_H2OStore",
+    "last_opened_file_path": "C:/Users/otosa/Documents/GitHub/H20Strore",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -66,6 +78,7 @@
       <updated>1741663611766</updated>
       <workItem from="1741663613766" duration="186000" />
       <workItem from="1741663809566" duration="93000" />
+      <workItem from="1741664593176" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
